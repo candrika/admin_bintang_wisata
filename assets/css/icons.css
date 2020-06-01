@@ -1,0 +1,190 @@
+.settings {
+    background-image:url(../icons/fam/folder_wrench.png);
+}
+.add-icon {
+    background-image:url(../icons/fam/add.png);
+}
+.save-icon {
+    background-image:url(../icons/fam/disk.png);
+} .edit-icon {
+    background-image:url(../icons/fam/application_form_edit.png);
+} 
+.tick-icon {
+    background-image:url(../icons/fam/tick.png);
+} 
+.delete-icon {
+    background-image:url(../icons/fam/delete.gif);
+}
+.excel-icon {
+    background-image:url(../icons/fam/page_white_excel.png);
+}
+.nav {
+    background-image:url(../icons/fam/folder_go.png);
+}
+.info {
+    background-image:url(../icons/fam/information.png);
+}
+.karyawan-icon {
+    background-image:url(../icons/fam/user_suit.png);
+}
+.import-karyawan-icon {
+     background:url(../icons/fam/drive_web.png) no-repeat center center !important;
+}
+.personalia-icon {
+    background-image:url(../icons/fam/vcard.png);
+}
+.penggajian-icon {
+    background-image:url(../icons/fam/table_lightning.png);
+}
+.laporan-icon {
+    background-image:url(../icons/fam/report_magnify.png);
+}
+.masterdata-icon {
+    background-image:url(../icons/fam/server_database.png);
+}
+.pengaturan-icon {
+    background-image:url(../icons/fam/cog.png);
+}
+.sallary-icon {
+    background:url(../icons/fam/vcard.png) no-repeat center center !important;
+}
+
+
+.pelanggan {
+    background:url(../icons/fam/user_orange.png) no-repeat center center !important;
+}
+.sales {
+    background:url(../icons/fam/basket_go.png) no-repeat center center !important;
+}
+.production {
+    background:url(../icons/fam/bricks.png) no-repeat center center !important;
+}
+.dashboard {
+    background:url(../icons/fam/chart_curve.png) no-repeat center center !important;
+}
+.master {
+    background:url(../icons/fam/database_gear.png) no-repeat center center !important;
+}
+
+.karyawan {
+    background:url(../icons/fam/user_suit.png) no-repeat center center !important;
+}
+.personalia {
+    background:url(../icons/fam/vcard.png) no-repeat center center !important;
+}
+.penggajian {
+    background:url(../icons/fam/table_lightning.png) no-repeat center center !important;
+}
+.laporan {
+    background:url(../icons/fam/report_magnify.png) no-repeat center center !important;
+}
+.masterdata {
+    background:url(../icons/fam/server_database.png) no-repeat center center !important;
+}
+.pengaturan {
+    background:url(../icons/fam/cog.png) no-repeat center center !important;
+}
+.hapus-gaji {
+    background:url(../icons/fam/calculator_delete.png) no-repeat center center !important;
+}    
+.icon-folder {
+    background: url('../icons/fam/folder.png') no-repeat center center !important;
+}
+.open-folder {
+    background: url('../icons/fam/application_side_expand.png') no-repeat center center !important;
+}
+.add-icon {
+    background: url('../icons/fam/application_form_add.png') no-repeat center center !important;
+}
+.list-icon {
+    background: url('../icons/fam/application_view_columns.png') no-repeat center center !important;
+}
+.calc-icon {
+    background: url('../icons/fam/calculator_add.png') no-repeat center center !important;
+}
+.print-icon {
+    background: url('../icons/fam/printer.png') no-repeat center center !important;
+}
+
+
+.report-icon {
+    background: url('../icons/fam/report.png') no-repeat center center !important;
+}
+.imgupload-icon {
+    background: url('../icons/fam/picture_add.png') no-repeat center center !important;
+}
+.user_edit {
+    background: url('../icons/fam/user_edit.png') no-repeat center center !important;
+}
+.page_excel {
+    background: url('../icons/fam/page_excel.png') no-repeat center center !important;
+}
+.table_go {
+    background: url('../icons/fam/table_go.png') no-repeat center center !important;
+}
+.setup {
+    background: url('../icons/fam/wrench.png') no-repeat center center !important;
+}
+.akun {
+    background: url('../icons/fam/script.png') no-repeat center center !important;
+}
+.jurnal {
+    background: url('../icons/fam/database_table.png') no-repeat center center !important;
+}
+.beli {
+    background: url('../icons/fam/basket_put.png') no-repeat center center !important;
+}
+.jual {
+    background: url('../icons/fam/basket_go.png') no-repeat center center !important;
+}
+.inventory {
+    background: url('../icons/fam/application_view_list.png') no-repeat center center !important;
+}
+.crm {
+    background: url('../icons/fam/emoticon_wink.png') no-repeat center center !important;
+}
+.siswa {
+    background: url('../icons/fam/user.png') no-repeat center center !important;
+}
+.suplier {
+    background: url('../icons/fam/user_green.png') no-repeat center center !important;
+}
+.konsumen {
+    background: url('../icons/fam/user_suit.png') no-repeat center center !important;
+}
+.bank {
+    background: url('../icons/fam/money.png') no-repeat center center !important;
+}
+.hutangpiutang {
+    background: url('../icons/fam/arrow_refresh.png') no-repeat center center !important;
+}
+.sub-tree-journal {
+     background:url(../icons/fam/arrow_right.png) no-repeat center center !important;
+}
+.folder {
+     background:url(../icons/fam/folder.png) no-repeat center center !important;
+}
+.search {
+     background:url(../icons/fam/zoom.png) no-repeat center center !important;
+}
+.refresh {
+     background:url(../icons/fam/arrow_refresh.png) no-repeat center center !important;
+}
+.disk {
+     background:url(../icons/fam/disk.png) no-repeat center center !important;
+}
+.drive_disk-icon {
+    background: url(../icons/fam/drive_disk.png) no-repeat center center !important;
+}
+.report_key {
+     background:url(../icons/fam/report_key.png) no-repeat center center !important;
+}
+.acrobat {
+     background:url(../icons/fam/page_white_acrobat.png) no-repeat center center !important;
+}
+.email-icon {
+     background:url(../icons/fam/email_go.png) no-repeat center center !important;
+}
+.return-icon {
+    background: url(../icons/fam/arrow_undo.png) no-repeat center center !important;
+}

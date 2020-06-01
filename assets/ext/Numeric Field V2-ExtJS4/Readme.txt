@@ -1,0 +1,1 @@
+This extension was created using package ext-4.0.2a-gpl.
